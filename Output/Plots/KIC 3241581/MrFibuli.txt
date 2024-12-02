@@ -1,0 +1,608 @@
+Tue Nov 26 17:34:25 2024
+ID          3241581
+numax        2689.0
+numax_e        60.0
+dnu           123.0
+dnu_e           3.0
+Teff       5576.819
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np               10
+Flag              3
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4479368464083375
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 24.6 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 10:35:01 2024
+ID          3241581
+numax        2689.0
+numax_e        60.0
+dnu           121.0
+dnu_e           2.0
+Teff       5576.819
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np               10
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4194219240959183
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 22.4 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 11:52:17 2024
+ID          3241581
+numax        2689.0
+numax_e        60.0
+dnu           122.5
+dnu_e           1.0
+Teff       5576.819
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np               10
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.405490331901821
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 21.2 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 13:18:31 2024
+ID          3241581
+numax        2800.0
+numax_e        60.0
+dnu           122.5
+dnu_e           1.0
+Teff       5576.819
+Teff_e          150
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4939452884036803
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 15.4 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 13:46:28 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff       5576.819
+Teff_e          150
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.481544868010489
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 13.5 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 14:43:12 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff       5576.819
+Teff_e          150
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                6
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.406117962000387
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 9.1 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 15:23:11 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff         5577.0
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.504248334063327
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 13.6 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 15:48:10 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4934912285057118
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 11.0 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 16:06:44 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.495585366047859
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 10.6 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 16:29:54 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+122.0
+{'dnu': <pbjam.distributions.normal object at 0x1518a8ae40a0>}
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4915269901290862
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 13.6 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 16:54:42 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4353999218039637
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Wed Nov 27 17:10:07 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.5042297795774249
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 16.2 minutes
+Saving....
+Calculation Complete
+
+
+Wed Nov 27 17:34:07 2024
+ID          3241581
+numax        2935.0
+numax_e        50.0
+dnu           122.0
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.516749811658428
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 15.9 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 10:31:21 2024
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                7
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4862642506803025
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 15.9 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 10:54:16 2024
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e           30
+bp_rp      0.858131
+bp_rp_e         0.1
+Type             MS
+Np                5
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.511438671823798
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Thu Nov 28 10:59:48 2024
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                5
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.5871163449956127
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 5.3 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 11:27:13 2024
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                6
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4511085526240577
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 8.2 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 11:50:03 2024
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                5
+Flag              5
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.417737042074727
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 6.5 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 16:00:04 2024
+You already did this one.
+Move along?
+
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                5
+Flag              1
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4058632126672692
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 5.9 minutes
+Saving....
+Calculation Complete
+
+
+Thu Nov 28 16:17:52 2024
+You already did this one.
+Move along?
+
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              1
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.795222351274791
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 12.9 minutes
+Saving....
+Calculation Complete
+
+
+Mon Dec  2 09:46:41 2024
+You already did this one.
+Move along?
+
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              1
+Name: 5, dtype: object
+ID: 3241581
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[120, 121, 122, 123, 124, 242, 243, 244, 245, 246, 247, 365, 366, 367, 368, 369, 488, 489, 490, 491, 492, 610, 611, 612, 613, 614, 733, 734, 735, 736, 737, 855, 856, 857, 858, 859, 978, 979, 980, 981, 982, 1100, 1101, 1102, 1103, 1104, 1105, 1223, 1224, 1225, 1226, 1227, 1346, 1347, 1348, 1349, 1350, 1468, 1469, 1470, 1471, 1472, 1591, 1592, 1593, 1594, 1595, 1713, 1714, 1715, 1716, 1717, 1718]
+Using epsilon of 1.4251129257717523
+Model suggests 1.45
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 14.5 minutes
+Saving....
+Calculation Complete
+
+
