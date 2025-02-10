@@ -201,3 +201,347 @@ Saving....
 Calculation Complete
 
 
+Tue Jan 28 00:59:26 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: {gEpsilonScale}, d01: {d01Scale}
+{}
+Contacting Text File
+Total Extermination!
+[]
+Tue Jan 28 01:03:33 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.5348005958001494
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Tue Jan 28 01:07:41 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Tue Jan 28 01:11:30 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Using epsilon of 1.5443968508401116
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Plotting
+Using epsilon of 1.5323668327087476
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Tue Jan 28 01:16:06 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.5092018265744045
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Plotting
+Using epsilon of 1.5266232579884749
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 65.4 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Peakbagging slice 1/1
+Time taken 62.0 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Peakbagging slice 1/1
+Time taken 61.4 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Peakbagging slice 1/1
+Time taken 56.5 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Peakbagging slice 1/1
+Time taken 74.5 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Tue Jan 28 04:42:41 2025
+You already did this one.
+Move along?
+
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name: 37, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.520120722688243
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 71.4 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Wed Jan 29 00:44:18 2025
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name             Tom
+Name: 36, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.537980817599295
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 62.0 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Wed Jan 29 02:35:56 2025
+ID         212708252
+numax       2896.664
+numax_e       21.682
+dnu          133.162
+dnu_e          0.773
+Teff            5550
+Teff_e            31
+bp_rp       0.871788
+bp_rp_e          0.1
+Lum            0.851
+Lum_e          0.008
+Kmag           7.914
+Type              MS
+Np                14
+Flag               1
+Binary             0
+Name             Tom
+Name: 36, dtype: object
+ID: 212708252
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.5384348706251845
+Model suggests 1.45
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 71.0 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Thu Jan 30 05:46:46 2025
+ID               212708252
+numax             2896.664
+numax_e             21.682
+dnu                133.162
+dnu_e                0.773
+Teff                  5550
+Teff_e                  31
+bp_rp             0.871788
+bp_rp_e                0.1
+Type                    MS
+Np                      14
+Flag                     1
+Name             Tom Baker
+Name 2     Doctor Octavius
+Name: 4, dtype: object
+ID: 212708252
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 72.6 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

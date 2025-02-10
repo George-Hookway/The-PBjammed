@@ -221,3 +221,125 @@ Saving....
 Calculation Complete
 
 
+Wed Jan 29 00:44:03 2025
+ID                              212624487
+numax                            3025.209
+numax_e                            33.563
+dnu                               132.357
+dnu_e                               0.784
+Teff                                 6143
+Teff_e                                 41
+bp_rp                            0.714225
+bp_rp_e                               0.1
+Lum                                 1.261
+Lum_e                                0.01
+Kmag                                8.111
+Type                                   MS
+Np                                     10
+Flag                                    1
+Binary                                  0
+Name       Legolas, of the Woodland Realm
+Name: 31, dtype: object
+ID: 212624487
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[]
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 83, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 43, in Activate
+    Result, f, s, M = ModeResult(BigData.ID[d], BigData.Np[d], (BigData.numax[d], BigData.numax_e[d]),
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 25, in ModeResult
+    return PBjammer.Run(ID, Np, numax=numax, dnu=dnu, teff=teff, bp_rp=bp_rp, Plot=Plot, l1=l1, Type=Type)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 148, in Run
+    Result, f, s, M = Mode20(ID, Np, numax=numax, dnu=dnu, teff=teff, bp_rp=bp_rp, Plot=Plot, l1=l1, Type=Type)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 91, in Mode20
+    M.runl20model()
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/modeID.py", line 101, in runl20model
+    self.l20model = Asyl20model(f, s,
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/l20models.py", line 57, in __init__
+    self.Nyquist = self.f[-1]
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/jax/_src/array.py", line 336, in __getitem__
+    return lax_numpy._rewriting_take(self, idx)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/jax/_src/numpy/lax_numpy.py", line 6594, in _rewriting_take
+    return _gather(arr, treedef, static_idx, dynamic_idx, indices_are_sorted,
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/jax/_src/numpy/lax_numpy.py", line 6603, in _gather
+    indexer = _index_to_gather(shape(arr), idx)  # shared with _scatter_update
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/jax/_src/numpy/lax_numpy.py", line 6821, in _index_to_gather
+    raise IndexError(f"index is out of bounds for axis {x_axis} with size 0")
+IndexError: index is out of bounds for axis 0 with size 0
+Wed Jan 29 02:35:36 2025
+ID                              212624487
+numax                            3025.209
+numax_e                            33.563
+dnu                               132.357
+dnu_e                               0.784
+Teff                                 6143
+Teff_e                                 41
+bp_rp                            0.714225
+bp_rp_e                               0.1
+Lum                                 1.261
+Lum_e                                0.01
+Kmag                                8.111
+Type                                   MS
+Np                                     10
+Flag                                    1
+Binary                                  0
+Name       Legolas, of the Woodland Realm
+Name: 31, dtype: object
+ID: 212624487
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.01, Epsilon-g: 0.2, d01: 0.5
+{}
+Contacting Text File
+Standard Configuration
+Total Extermination!
+[]
+Activating 3-space separation
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.2735147791305947
+Model suggests 1.2047539999999994
+Plotting
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 35.5 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Thu Jan 30 05:46:46 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       10
+Flag                      1
+Name                Legolas
+Name 2     The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 29.3 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

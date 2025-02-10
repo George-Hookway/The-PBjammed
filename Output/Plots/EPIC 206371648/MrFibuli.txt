@@ -457,3 +457,277 @@ Saving....
 Calculation Complete
 
 
+Thu Jan 30 05:46:45 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 34.4 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Fri Feb  7 10:37:04 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 95, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 61, in Activate
+    f, s = PBjammer.PSD(BigData.ID[d], 'Rafa')
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 41, in PSD
+    Lightning = pd.read_csv(f'/rds/projects/n/nielsemb-plato-peakbagging/george/'
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/rds/projects/n/nielsemb-plato-peakbagging/george/Sinister Six/rafas_stars/ktwo00206371648_01_kasoc-psd_slc_v1.dat'
+
+
+Fri Feb  7 10:38:02 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 95, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 69, in Activate
+    FinalResult, Peak = Peakbagging(BigData.ID[d], BigData.Np[d], Result, f, s, BigData.Type[d])
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 28, in Peakbagging
+    return PBjammer.PeakBagger(ID, Np, Result, f, s, Type, Plot=Plot)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 147, in PeakBagger
+    Result = Peak()
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 577, in __call__
+    inst(**sampler_kwargs);
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 1205, in __call__
+    self.runSampler(**sampler_kwargs, walltime=3720)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/jar.py", line 823, in runSampler
+    sampler, ctrlChain = self.burnInSampler(nchains, DEfrac, earlyStop, walltime, checkEvery, t0, ncontrol, DtauLimit)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/jar.py", line 527, in burnInSampler
+    p0 = self.initSamples(nchains)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/jar.py", line 386, in initSamples
+    p0[i] = np.array([self.priors[key].ppf(u[i]) for i, key in enumerate(self.priors.keys())])
+ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (94,) + inhomogeneous part.
+
+
+Fri Feb  7 10:48:16 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 34.7 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Fri Feb  7 11:53:41 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 95, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 69, in Activate
+    FinalResult, Peak = Peakbagging(BigData.ID[d], BigData.Np[d], Result, f, s, BigData.Type[d])
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 28, in Peakbagging
+    return PBjammer.PeakBagger(ID, Np, Result, f, s, Type, Plot=Plot)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 144, in PeakBagger
+    Peak = peakbag(f, s, ell=Result['ell'], freq=Result['summary']['freq'],
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 102, in __init__
+    self.createPeakbagInstances()
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 546, in createPeakbagInstances
+    self.pbInstances.append(sampler(self.f, self.snr, self.ell, self.freq, self.height, self.width, self.zeta, self.dnu, self.d02, self.freqLimits, self.rotAsym, self.addPriors))
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 1380, in __init__
+    super().__init__(*args, **kwargs)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 947, in __init__
+    self.setPriors()
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/pbjam/peakbagging.py", line 988, in setPriors
+    self.priors = dict(sorted(self.Priors.items()))
+AttributeError: 'EmceePeakbag' object has no attribute 'Priors'
+
+
+Fri Feb  7 11:55:17 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 28.2 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Fri Feb  7 14:58:07 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 37.6 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Fri Feb  7 16:00:38 2025
+ID                    206371648
+numax                    2992.0
+numax_e                    30.0
+dnu                      136.75
+dnu_e                       0.5
+Teff                       5397
+Teff_e                      100
+bp_rp                  0.930634
+bp_rp_e                     0.1
+Type                         MS
+Np                           10
+Flag                          2
+Name       Captain Jack Sparrow
+Name 2                  Electro
+Name: 2, dtype: object
+ID: 206371648
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 38.2 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

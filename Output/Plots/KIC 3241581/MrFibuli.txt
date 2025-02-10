@@ -606,3 +606,68 @@ Saving....
 Calculation Complete
 
 
+Thu Jan 30 05:46:45 2025
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              1
+Name          Dobby
+Name 2        Venom
+Name: 5, dtype: object
+ID: 3241581
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 94, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 61, in Activate
+    f, s = PBjammer.PSD(BigData.ID[d], 'Rafa')
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 41, in PSD
+    Lightning = pd.read_csv(f'/rds/projects/n/nielsemb-plato-peakbagging/george/'
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/rds/projects/n/nielsemb-plato-peakbagging/george/Sinister Six/rafas_stars/ktwo3241581_01_kasoc-psd_slc_v1.dat'
+Thu Jan 30 05:54:19 2025
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              1
+Name          Dobby
+Name 2        Venom
+Name: 5, dtype: object
+ID: 3241581
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 12.7 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

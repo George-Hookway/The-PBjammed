@@ -85,3 +85,31 @@ Saving....
 Calculation Complete
 
 
+Thu Jan 30 05:46:45 2025
+ID            206245055
+numax            3120.0
+numax_e            60.0
+dnu               140.0
+dnu_e               3.0
+Teff               5668
+Teff_e              100
+bp_rp          0.758362
+bp_rp_e             0.1
+Type                 MS
+Np                   14
+Flag                  1
+Name       Qui-Gon Jinn
+Name 2       The Lizard
+Name: 1, dtype: object
+ID: 206245055
+Total Extermination!
+[]
+Using emcee to sample.
+Creating envelope slices
+Peakbagging slice 1/1
+Time taken 42.7 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
