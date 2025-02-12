@@ -113,3 +113,61 @@ Saving....
 Calculation Complete
 
 
+
+
+Tue Feb 11 13:49:12 2025
+ID          206245055
+numax          3120.0
+numax_e          60.0
+dnu             140.0
+dnu_e             3.0
+Teff             5668
+Teff_e            100
+bp_rp        0.758362
+bp_rp_e           0.1
+Type               MS
+Np                 14
+Flag                1
+Name       The Lizard
+Name: 1, dtype: object
+ID: 206245055
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 95, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 61, in Activate
+    f, s = PBjammer.PSD(BigData.ID[d], 'Rafa')
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 49, in PSD
+    Destroy = Exterminate.TotalDestruction([np.array(Lightning.Frequency), np.array(Lightning.Power)])
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/core/generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'Frequency'
+
+
+Tue Feb 11 13:50:28 2025
+ID          206245055
+numax          3120.0
+numax_e          60.0
+dnu             140.0
+dnu_e             3.0
+Teff             5668
+Teff_e            100
+bp_rp        0.758362
+bp_rp_e           0.1
+Type               MS
+Np                 14
+Flag                1
+Name       The Lizard
+Name: 1, dtype: object
+ID: 206245055
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 78.1 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

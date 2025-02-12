@@ -343,3 +343,212 @@ Saving....
 Calculation Complete
 
 
+
+
+Mon Feb 10 11:41:59 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       10
+Flag                      1
+Name                Legolas
+Name 2     The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.04, Epsilon-g: 0.2, d01: 0.5
+{'dnu': <pbjam.distributions.normal object at 0x1538d0c75460>, 'numax': <pbjam.distributions.normal object at 0x1538cc1a37f0>}
+Contacting Text File
+Standard Configuration
+Activating 3-space separation
+Jens??
+Rafa
+Total Extermination!
+[]
+Plotting
+
+
+Mon Feb 10 11:25:20 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       14
+Flag                      1
+Name                Legolas
+Name 2     The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 59.8 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+Using epsilon of 1.3342789572258278
+Model suggests 1.2047539999999994
+Plotting
+Saving....
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 39.6 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Mon Feb 10 13:06:13 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       14
+Flag                      1
+Name                Legolas
+Name 2     The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+dnu: 0.001, numax: 0.01, Epsilon-p: 0.04, Epsilon-g: 0.2, d01: 0.5
+{'dnu': <pbjam.distributions.normal object at 0x14f5d75998b0>, 'numax': <pbjam.distributions.normal object at 0x14f5d4068d60>}
+Contacting Text File
+Standard Configuration
+Activating 3-space separation
+Jens??
+Rafa
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.3399767361023178
+Model suggests 1.2047539999999994
+Plotting
+Saving....
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 68.5 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Mon Feb 10 14:42:08 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       16
+Flag                      1
+Name       The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+dnu: 0.0005, numax: 0.01, Epsilon-p: 0.04, Epsilon-g: 0.2, d01: 0.5
+{'dnu': <pbjam.distributions.normal object at 0x151b3a9ffbe0>, 'numax': <pbjam.distributions.normal object at 0x151b380d1fd0>}
+Contacting Text File
+Standard Configuration
+Activating 3-space separation
+Jens??
+Rafa
+Total Extermination!
+[]
+Plotting
+Using epsilon of 1.3715389650108873
+Model suggests 1.2047539999999994
+Plotting
+Saving....
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 64.7 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
+
+
+Tue Feb 11 13:49:18 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       16
+Flag                      1
+Name       The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+
+
+Traceback (most recent call last):
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 95, in LetUsBegin
+    Activate(n)
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/TheActivator.py", line 61, in Activate
+    f, s = PBjammer.PSD(BigData.ID[d], 'Rafa')
+  File "/rds/projects/n/nielsemb-plato-peakbagging/george/PBjammy/ThePBjam/PBjammer.py", line 49, in PSD
+    Destroy = Exterminate.TotalDestruction([np.array(Lightning.Frequency), np.array(Lightning.Power)])
+  File "/rds/homes/g/gth025/.local/lib/python3.9/site-packages/pandas/core/generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'Frequency'
+
+
+Tue Feb 11 13:52:00 2025
+ID                212624487
+numax              3025.209
+numax_e              33.563
+dnu                 132.357
+dnu_e                 0.784
+Teff                   6143
+Teff_e                   41
+bp_rp              0.714225
+bp_rp_e                 0.1
+Type                     MS
+Np                       16
+Flag                      1
+Name       The Green Goblin
+Name: 3, dtype: object
+ID: 212624487
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 78.2 minutes
+Plotting
+Saving....
+Calculation Complete
+
+

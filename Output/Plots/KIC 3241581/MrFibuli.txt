@@ -671,3 +671,31 @@ Saving....
 Calculation Complete
 
 
+
+
+Tue Feb 11 13:53:35 2025
+ID          3241581
+numax        2935.0
+numax_e        30.0
+dnu          122.95
+dnu_e           0.5
+Teff           5577
+Teff_e          100
+bp_rp      0.858131
+bp_rp_e         1.0
+Type             MS
+Np                8
+Flag              1
+Name          Venom
+Name: 5, dtype: object
+ID: 3241581
+Total Extermination!
+[]
+Using emcee to sample.
+Peakbagging slice 1/1
+Time taken 13.8 minutes
+Plotting
+Saving....
+Calculation Complete
+
+
